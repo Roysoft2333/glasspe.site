@@ -23,8 +23,8 @@ src="//music.163.com/outchain/player?type=2&id=1456677611&auto=1&height=66"></if
 <h2 id="我的世界">Minecraft专区</h2>
 <h3 id="下载我的世界">游戏下载</h3>
 <p><a href="https://www.minecraft.net" title="正版购买链接">Minecraft官方网站</a></p>
-<p><a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377" title="Afdian">Minecraft For Windows</a></p>
-<p><a href="https://mcapks.com/" title="MCAPKS">Minecraft For Android</a></p>
+<p><a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377" title="MineCraft-PCL-Laucher-Download">Minecraft For Windows</a></p>
+<p><a href="https://xz.klpbbs.net/" title="原MCAPKS,现苦力怕BBS下载站">Minecraft For Android</a></p>
 <h3 id="服务器">我的服务器</h3>
 <p>有三个服务器，详情请看https://www.roy-xiaozhan.top/index.php/2023/01/10/%e6%88%91%e7%9a%84%e5%90%84%e7%a7%8dmc%e6%9c%8d%e5%8a%a1%e5%99%a8/ 和QQ群:428547306 建议去主站看看哦~<p>
 <h2 id="友情链接">推荐区~</h2>
