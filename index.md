@@ -34,4 +34,5 @@ src="//music.163.com/outchain/player?type=2&id=1456677611&auto=1&height=66"></if
 <p><a href="https://www.xkofficial.cf">屑星空的网站,本站是Fork了这个网站的GitHub(doge)</a></p>
 <p><a href="https://www.roy-xiaozhan.top">Roy(本站长)的主站</a></p>
 <a href="https://icp.gov.moe/?keyword=20236662" target="_blank">萌ICP备20236662号</a>
+<a href="https://icp.gov.moe/?keyword=20236662" target="_blank">萌ICP备20236662号</a>
 <div align="center">
