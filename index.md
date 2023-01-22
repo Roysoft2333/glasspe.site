@@ -14,6 +14,8 @@
     info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
   });
 </script>
+<h1>傻逼阿辉互联 我们要抵制阿辉互联</h1>
+<h1>莫名其妙删机 还不给钱</h1>
 <h2 id="我是谁">我是谁？</h2>
 <p>一位四年级学生，日常摆烂，Python,HTML,Batch都会一点<p>
 <p>我的B站&QQ:Roy_SysNotFound(其他暂时还没有）<p>
@@ -26,7 +28,13 @@ src="//music.163.com/outchain/player?type=2&id=1456677611&auto=1&height=66"></if
 <p><a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377" title="MineCraft-PCL-Laucher-Download">Minecraft For Windows</a></p>
 <p><a href="https://xz.klpbbs.net/" title="原MCAPKS,现苦力怕BBS下载站">Minecraft For Android</a></p>
 <h3 id="服务器">我的服务器</h3>
-<p>有三个服务器，详情请看https://www.roy-xiaozhan.top/index.php/2023/01/10/%e6%88%91%e7%9a%84%e5%90%84%e7%a7%8dmc%e6%9c%8d%e5%8a%a1%e5%99%a8/ 和QQ群:428547306 建议去主站看看哦~<p>
+<p>被阿辉删机了,
+生存服:mcs.roy-xiaozhan.top
+建筑服:mcr.roy-xiaozhan.top
+跑酷服:roydserver.mcpro.io
+换了j6d.cc或者jd6.cc极点云
+  服务态度好,还送服务器
+<p>
 <h2 id="友情链接">推荐区~</h2>
 <p><a href="https://yj1q3-my.sharepoint.com/:u:/g/personal/xkofficial2333_yj1q3_onmicrosoft_com/ESccvrzgiGhFnnzhID7C9O4BzBlMOljSN3TMAJcsNWCdOw?e=rktMcB" target="_blank" rel="noopener noreferrer" title="密码自己猜（doge）">神秘链接</a></p>
 <p><a href="https://next.itellyou.cn" target="_blank" rel="noopener noreferrer" title="纯净系统下载">NSDN新站</a></p>
